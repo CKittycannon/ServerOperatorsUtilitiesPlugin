@@ -1,0 +1,10 @@
+<p style="text-align: center;"><strong>Password Recovery</strong></p>
+<p style="text-align: center;"><img src="https://images.pexels.com/photos/416160/pexels-photo-416160.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="You, after finding receiving this email" width="470" height="313" /></p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Hello user! You appear to have forgotten your password. Thankfully, you have provided us with your email and so we were able to send you this email with your password. Please keep this email so you don't forget it again or change your password with one that is easier to remind.</p>
+<p>&nbsp;</p>
+<p style="text-align: center;">YOUR PASSWORD IS:</p>
+<p style="text-align: center;"><strong>&nbsp;{password-holder-block}</strong></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: left;">*If you didn't send this message through our server, that means someone is trying to get your password! Please take necesary measures to avoid getting your account stolen. Please report this to our admins if the issue continues.</p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: right;">- Sincerely, YourFavServer99</p>

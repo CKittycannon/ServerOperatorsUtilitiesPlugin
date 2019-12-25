@@ -1,0 +1,36 @@
+main: dev.ckitty.mc.soup.main.SOUP
+name: ServerOperatorsUtilitiesPlugin
+version: 1.0.0
+description: A plugin that tries to include as many elements for OP's
+api-version: "1.13"
+depend: [Vault]
+author: CKittycannon
+commands:
+  login:
+  logout:
+  register:
+  unregister:
+  email:
+  password:
+  tpask:
+  tphere:
+  tpok:
+  tpno:
+  tpcancel:
+  eco:
+  pay:
+  money:
+  warp:
+  spawn:
+  gmc:
+  gma:
+  gms:
+  gmz:
+  fly:
+  enderchest:
+  suicide:
+  thunder:
+  invsee:
+  soup:
+  heal:
+  feed:

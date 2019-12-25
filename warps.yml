@@ -1,0 +1,15 @@
+config:
+  # How much should a player wait before being teleported.
+  # Set to 0 if teleportation should be immediately.
+  # Time is measured in SECONDS.
+  wait-tp: 3
+  # How much time should a tp request should expire?
+  # Time is measured in SECONDS.
+  tpx-timeout: 30
+  # Worlds who do not allow teleportation commands.
+  # /tpask, /tphere, /warp, etc. Use the world name
+  # as it appears in its folder
+  worlds-blacklist:
+    - "minigames"
+    - "admin_world"
+warps:

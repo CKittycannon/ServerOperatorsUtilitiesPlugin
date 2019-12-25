@@ -1,0 +1,17 @@
+config:
+  # Coin name (singular)
+  coin-sing: "Credit-Emerald"
+  # Coin name (plural)
+  coin-plur: "Credit-Emeralds"
+  # Format for the coins.
+  format: "₠ %.2f"
+  # The starting ammount for any new player. Don't be greedy, don't put 0 here!
+  account-start: 1000
+  # The starting ammount for any new bank. Who uses banks anyway?
+  bank-start: 0
+  # Maximum ammount for a player account. 3 Billion (3,000,000,000,000) should be a good ammount
+  account-max: 3000000000000
+  # Maximum ammount for a bank account. 3 Billion (3,000,000,000,000) should be a good ammount
+  bank-max: 3000000000000
+accounts:
+banks:
